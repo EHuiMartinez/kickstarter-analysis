@@ -17,7 +17,7 @@ The Theater Outcomes vs Launch chart shows the outcomes based on date the campai
 The Outcomes vs Goals chart shows the outcomes based on the projected donation goal amounts specifically for Plays in the Theater subcategory, ranging from less than $1,000 to greater than $50,000.  The line chart shows outcomes for Percentage Successful, Percentage Failed and Percentage Canceled and the donation goal amount ranges.  For the data analyzed, there are no canceled Play campaigns and only indicates Percentage of Successful and Failed cases.  Donation goal <$20,000 shows a higher successful percentage; as the goals increase >$20,000, the percentage of failed cases increase.  There are a few cases (4) in the $35,000 - $39,999 range that are successful and maybe exceptions.  The lowest success and highest failed percentage is found at $45,000 - $49,999 where all cases failed.
 
 ### Challenges and Difficulties Encountered
-The challenges and difficulties I encountered were mainly related to being a novice at CountIFS and spent time on manual 'clean up' of the formula for each row.  I did spent a majority of time for this project ensuring each line is accurate and for ranges that are at the amount requires '=>' to include both the number at the range and above.  
+The challenges and difficulties I encountered were mainly related to being a novice at CountIFS and spent time on manual 'clean up' of the formula for each row.  I spent a majority of time for this project ensuring each line is accurate and for ranges that are at the amount requires '=>' to include both the number at the range and above.
 
 ## Results
 

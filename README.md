@@ -7,11 +7,13 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](https://github.com/EHuiMartinez/kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes vs Launch.png](https://github.com/EHuiMartinez/kickstarter-analysis/blob/master/resources/Theater_Outcomes_vs_Launch.png)
+
 The Theater Outcomes vs Launch chart shows the outcomes based on date the campaign was launched, listed in months.  The line graph shows outcomes for Successful, Failed and Canceled Kickstarter Theater campaigns. There is an overall successful rate is higher than failed or canceled.  There is a low number of canceled campaigns overall, with the month of October showing 0 cases.  The months with highest success is in May (111) & June (100); the lowest is in December.
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals.png](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](https://github.com/EHuiMartinez/kickstarter-analysis/blob/master/resources/Outcomes_vs_Goals.png)
+
 The Outcomes vs Goals chart shows the outcomes based on the projected donation goal amounts specifically for Plays in the Theater subcategory, ranging from less than $1,000 to greater than $50,000.  The line chart shows outcomes for Percentage Successful, Percentage Failed and Percentage Canceled and the donation goal amount ranges.  For the data analyzed, there are no canceled Play campaigns and only indicates Percentage of Successful and Failed cases.  Donation goal <$20,000 shows a higher successful percentage; as the goals increase >$20,000, the percentage of failed cases increase.  There are a few cases (4) in the $35,000 - $39,999 range that are successful and maybe exceptions.  The lowest success and highest failed percentage is found at $45,000 - $49,999 where all cases failed.
 
 ### Challenges and Difficulties Encountered

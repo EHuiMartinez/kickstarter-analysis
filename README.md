@@ -4,7 +4,7 @@
 ### Purpose
 * Project to analyze Kickstarter Campaign data for theater and play specific information to project best goal/pledge donations.
 
-## Analysis and Challenges:
+## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch.png](path/to/Theater_Outcomes_vs_Launch.png)

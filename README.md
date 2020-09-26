@@ -7,7 +7,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch.png](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/EHuiMartinez/kickstarter-analysis/resources/Theater_Outcomes_vs_Launch.png)
 The Theater Outcomes vs Launch chart shows the outcomes based on date the campaign was launched, listed in months.  The line graph shows outcomes for Successful, Failed and Canceled Kickstarter Theater campaigns. There is an overall successful rate is higher than failed or canceled.  There is a low number of canceled campaigns overall, with the month of October showing 0 cases.  The months with highest success is in May (111) & June (100); the lowest is in December.
 
 ### Analysis of Outcomes Based on Goals
